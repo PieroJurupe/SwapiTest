@@ -11,6 +11,8 @@ val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
 
 
-//Text Colors
+//Top App Bar Colors
+val TopAppBarColor = Color(0xFF1D1D1D)
 
+//Text Colors
 val YellowText = Color(0xFFFFBB00)
