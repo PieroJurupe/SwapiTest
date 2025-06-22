@@ -37,7 +37,7 @@ fun PrincipalTopAppBar(modifier: Modifier = Modifier) {
             Text(
                 fontWeight = FontWeight.Bold,
                 fontSize = 16.sp,
-                text = "WIKI",
+                text = "WIKII",
                 modifier = Modifier.padding(0.dp).align(Alignment.CenterHorizontally))
             }
         },
