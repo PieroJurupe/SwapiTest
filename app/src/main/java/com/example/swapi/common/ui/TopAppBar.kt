@@ -54,10 +54,3 @@ fun PrincipalTopAppBar(modifier: Modifier = Modifier) {
         )
         )
 }
-colors = TopAppBarDefaults.topAppBarColors(
-containerColor = TopAppBarColor,
-titleContentColor = YellowText,
-actionIconContentColor = Color.White,
-)
-)
-}
